@@ -1,1 +1,1 @@
-Auth Service
+Eureka Server
