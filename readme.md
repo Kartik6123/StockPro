@@ -1,1 +1,1 @@
-Eureka Server
+Product Service
