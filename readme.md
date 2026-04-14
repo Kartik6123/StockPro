@@ -1,1 +1,1 @@
-Product Service
+Supplier Service
