@@ -1,1 +1,1 @@
-Supplier Service
+Warehouse Service
